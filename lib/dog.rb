@@ -4,4 +4,8 @@ class Dog
     @age   = age
     @breed = breed
   end
+
+  def summary
+    "Name: #{@name}\nAge: #{@age}\nBreed: #{@breed}"
+  end
 end
