@@ -5,12 +5,11 @@ class Dog
     @breed = breed
   end
 
-<<<<<<< HEAD
-  def summary
-    "Name: #{@name}\nAge: #{@age}\nBreed: #{@breed}"
-=======
   def bark
     "Woof"
->>>>>>> master
+  end
+
+  def summary
+    "Name: #{@name}\nAge: #{@age}\nBreed: #{@breed}"
   end
 end
