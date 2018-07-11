@@ -5,7 +5,7 @@
 * Make pull request for branch add_dog_bark
 * Merge pull request for branch add_dog_bark
 
-#### Pull new remote master into local master and merge with add_summary_method branch
+#### Pull new remote master into local master 
 
 $ git pull origin master
 
