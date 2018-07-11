@@ -2,20 +2,12 @@
 
 * Fork and clone
 
-#### On Github:
-
 * Make pull request for branch add_dog_bark
 * Merge pull request for branch add_dog_bark
 
-#### In terminal:
-
-* pull down master and delete branch add_dog_bark:
 
 $ git pull origin master
 $ git branch -d add_dog_bark
-
-* merge master into add_summary_method branch:
-
 $ git checkout add_summary_method
 $ git merge master
 
